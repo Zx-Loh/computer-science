@@ -110,6 +110,7 @@ just remember that you can't purchase success!
 Progress tracking:
 
 ⏳ In Progress
+
 ✅ Completed
 
 ## Prerequisites
